@@ -4,18 +4,18 @@ This is the program to generate coupon.
 
 
 
-###Language: php >= 7.2
+### Language: php >= 7.2
 ![php_version](./image/php_version.png)
 
 
 
-###DB schema
+### DB schema
 ![db_schema](./image/db_schema.png)
 
 
 
 
-#####*구현한 것과 하지 못한 것들을 구분해 놓았습니다. (o) or (x)
+##### *구현한 것과 하지 못한 것들을 구분해 놓았습니다. (o) or (x)
 
 1. 사전준비
     1. 회원 테이블을 생성하고 4명의 유저를 생성해 주세요. (o)
