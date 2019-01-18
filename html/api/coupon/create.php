@@ -33,5 +33,4 @@ if($coupon->create()){
 	echo json_encode(array("message" => "Unable to create Coupon code"));
 }
 
-
 ?>
