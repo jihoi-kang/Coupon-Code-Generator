@@ -1,4 +1,10 @@
 <?php
+
+/**
+ * 쿠폰 코드를 발행한다.
+ * 10만건 동시 발행 & 랜덤으로 쿠폰 사용한 것으로 처리
+ */
+
 session_start();
 include_once '../config/database.php';
 include_once '../objects/coupon.php';
