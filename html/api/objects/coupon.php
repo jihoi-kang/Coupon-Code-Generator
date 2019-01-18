@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * '쿠폰' 객체의 속성 및 기능 구현
+ */
+
 class Coupon{
 
 	/* DB connection & table name */
