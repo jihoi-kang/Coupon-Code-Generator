@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * 쿠폰 코드가 사용 가능한지 확인해준다.
+ */
 include_once '../config/database.php';
 include_once '../objects/coupon.php';
 
