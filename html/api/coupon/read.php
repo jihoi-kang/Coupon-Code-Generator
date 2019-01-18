@@ -1,4 +1,10 @@
 <?php
+
+/**
+ * 100개씩 쿠폰 코드 리스트 가져온다.
+ * 쿠폰 코드, 쿠폰의 그룹, 사용했다면 사용한 유저 ID, 쿠폰생성 날짜
+ */
+
 session_start();
 
 include_once '../config/database.php';
