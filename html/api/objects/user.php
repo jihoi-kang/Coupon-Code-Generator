@@ -1,6 +1,10 @@
 <?php
 
-class User{
+/**
+ * '사용자' 객체의 속성 및 기능 구현
+ */
+
+class User {
 
 	/* DB connection & table name */
 	private $conn;
