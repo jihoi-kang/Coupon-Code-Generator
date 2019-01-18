@@ -52,7 +52,7 @@
 		</div>
 		<!-- container end -->
 
-		<!-- jQuery libraries -->
+<!-- jQuery libraries -->
 <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
 <!-- jQuery codes -->
