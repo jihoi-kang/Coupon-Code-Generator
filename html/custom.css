@@ -49,12 +49,27 @@
 	text-align: center
 }
 
-.couponList .paging{text-align: center;}
+.couponList .paging {
+	text-align: center;
+}
 
-.couponList .paging li {display: inline-block; height: 20px; margin: 0 5px; padding: 0 5px; border: 1px solid #666; background: #eee; line-height: 21px; }
+.couponList .paging li {
+	display: inline-block;
+	height: 20px;
+	margin: 0 5px;
+	padding: 0 5px;
+	border: 1px solid #666;
+	background: #eee;
+	line-height: 21px;
+}
 
 .couponList .paging li.current,
-.couponList .paging li:hover { background: #666; }
+.couponList .paging li:hover {
+	background: #666;
+}
+
 .couponList .paging li.current,
-.couponList .paging li:hover a { color: #ddd; }
+.couponList .paging li:hover a {
+	color: #ddd;
+}
 
